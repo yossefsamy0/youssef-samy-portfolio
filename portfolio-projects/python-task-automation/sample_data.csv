@@ -1,0 +1,8 @@
+name,email,amount
+  Sara Ali  ,SARA@example.com,125.5
+Omar Hassan,omar@example.com,"2,400"
+Mona Samir,mona.example.com,80
+Ahmed Nabil,ahmed@example.com,not-a-number
+Sara Ali,sara@example.com,125.50
+Laila Mostafa,laila@example.com,310
+,missingname@example.com,50
