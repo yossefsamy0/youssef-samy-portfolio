@@ -1,0 +1,6 @@
+Campaign,Ad Group,Keyword,Match Type,Intent,Initial Action
+Local Service Search,Emergency Repair,[emergency home repair],Exact,High commercial intent,Review location relevance
+Local Service Search,Emergency Repair,"emergency home repair service",Phrase,High commercial intent,Review search terms
+Local Service Search,General Maintenance,[home maintenance service],Exact,Commercial intent,Check service fit
+Local Service Search,General Maintenance,"local home maintenance",Phrase,Commercial intent,Check geography
+Local Service Search,Technician,[book a home technician],Exact,Booking intent,Confirm actual service wording
